@@ -1,5 +1,17 @@
 # Sci-Fi Detective Game
 
+## Problem Statement
+
+Investigation processes involve collecting information, examining evidence, questioning individuals, and making decisions based on available clues. These processes can be represented through an interactive software simulation.
+
+This project develops a Java-based investigation simulation where users explore locations, collect evidence, question suspects, solve puzzles, and use the gathered information to resolve a fictional case.
+
+The system demonstrates object-oriented programming, modular design, collections, input handling, and logical decision-making through an interactive application.
+
+## Project Goal
+
+To model a structured investigation workflow using Java while demonstrating core object-oriented and modular programming concepts.
+
 ## Overview
 
 Sci-Fi Detective Game is a command-line based mystery investigation game developed in Java.
@@ -37,16 +49,15 @@ The project demonstrates object-oriented programming and modular programming con
 ```
 
 SciFiDetectiveGame/
-│
-├── Main.java
-├── Game.java
-├── Player.java
-├── Evidence.java
-├── Suspect.java
-├── Investigation.java
-├── Puzzle.java
-├── README.md
-└── statement.md
+- Main.java
+- Game.java
+- Player.java
+- Evidence.java
+- Suspect.java
+- Investigation.java
+- Puzzle.java
+- README.md
+- statement.md
 ```
 
 ## Code Structure
@@ -139,7 +150,7 @@ The current version focuses on a command-line implementation. Future versions co
 
 ## Author
 
-Developed as a Java course project by **Ameeshi**.
+Developed as a Java course project by **Ameeshi Khare**.
 
 ## License
 
